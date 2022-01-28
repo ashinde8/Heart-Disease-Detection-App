@@ -2,7 +2,7 @@
 
 This repository consists of the code used in building an Application for Predicting Heart Disease using Machine Learning.
 
-YouTube Video Link : https://www.youtube.com/watch?v=Xdf7L11pqFg&t=4s
+YouTube Video Link : https://www.youtube.com/watch?v=WmUoanmGPyc
 
 App Link : https://heart-disease-detection--app.herokuapp.com/
 
